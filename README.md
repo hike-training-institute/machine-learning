@@ -12,7 +12,7 @@
 
 ### 1. Data Collection 
 - No Data No Machine Learning 
-- Why Quality of Data is important
+- Why Quality of Data is important ?
 - How Data is collected in real world (Scrapy and Selenium Introduction)
 - Where is Data Stored and How is it retrieved Faster (Spark Introduction)
 
