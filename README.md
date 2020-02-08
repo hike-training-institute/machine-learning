@@ -1,10 +1,10 @@
-#Course Design:
+# Course Design:
 - Designed by Real Time Experts and Reviewed by PHD holders
 - Carefully designed for both freshers and working professionals
 - Real time examples and scenarios are covered in this course
 - Candidates will work on real time end-to-end Machine Learning Projects
 
-#Key Take Aways:
+# Key Take Aways:
 - Deep understanding in machine learning Algorithms
 - Experience in end-to-end machine learning project building
 - Best Practices and knowledge of end to end project development
@@ -92,7 +92,7 @@
 ### 12. Choosing the Best Model :
 - What is Overfit and Underfit ?
 - What is bias-varince tradeoff ?
-- What is Regularization 
+- What is Regularization ?
 - What is Gradient Descent 
 - Lasso, Ridge and ElasticNet Regression 
 
