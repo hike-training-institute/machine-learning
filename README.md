@@ -12,7 +12,7 @@
 
 ### 1. Data Collection 
 - No Data No Machine Learning 
-- Why Quality of Data is important
+- Why Quality of Data is important ?
 - How Data is collected in real world (Scrapy and Selenium Introduction)
 - Where is Data Stored and How is it retrieved Faster (Spark Introduction)
 
@@ -20,14 +20,7 @@
 - What are the steps involved in complete Machine Learning Project 
 - How to Design a Machine Learning Data Pipeline 
 
-### 3. Types of Data with examples 
-- Numeric  
-- Text 
-- Image 
-- Audio 
-- Video 
-
-### 4. Introduction to Machine Learning 
+### 3. Introduction to Machine Learning 
 - What is Machine Learning
 - Why and Where can it be implemented 
 - What are the classification of Machine Learning Models
@@ -36,7 +29,7 @@
 
 # Data Preparation 
 
-### 5. Preprocessing Numeric Data 
+### 4. Preprocessing Numeric Data 
 - Removing Duplicate Values
 - Handling Missing Data
 - Feature Scaling
@@ -48,18 +41,20 @@
 - Outlier Removal
 - Multicollinearity
  
-### 6. Preprocessing Text Data :
+### 5. Preprocessing Text Data :
 - Data Cleaning - stopwords removal, ngrams forming etc...
+- Lammentization 
+- Stemming
 - Label Encoding 
 - OneHot Encoding 
 
-### 7. Simple E2E ML process flow :
+### 6. Simple E2E ML process flow :
 - Getting Data 
 - Processing Data 
 - Applying simple Alogithm
 - Evaluating the Alogirthm 
 
-### 8. Different Evaluation Techniques :
+### 7. Different Evaluation Techniques :
 - Mean Squared Error, Root Mean Squared Error, Adjusted R-square
 - Confusion Matrix, ROC curve,
 - cosine similarity 
@@ -67,7 +62,7 @@
 
 # Machine Learning Implementation 
 
-### 9. Supervised Machine Learning Algorithms 
+### 8. Supervised Machine Learning Algorithms 
 - Simple Linear Regression 
 - Multi Linear Regression 
 - Logistic Regression
@@ -76,12 +71,12 @@
 - Support Vector Machine (SVM)
 - NavieBayes and its variants
 
-### 10. Unsupervised Machine Learning Algorithms
+### 9. Unsupervised Machine Learning Algorithms
 - K-Means Clustering 
 - Hierarchical Clustering
 - Dimensionality Reduction - Principal Component Analysis
 
-### 11. Ensembling Techniques 
+### 10. Ensembling Techniques 
 - What is Ensembling 
 - Random Forest 
 - Boosting
@@ -89,7 +84,7 @@
 
 # PostProcessing 
 
-### 12. Choosing the Best Model :
+### 11. Choosing the Best Model :
 - What is Overfit and Underfit ?
 - What is bias-varince tradeoff ?
 - What is Regularization ?
@@ -98,7 +93,7 @@
 
 # Final Product 
 
-### 13. Deploying a Trained Machine Learning Model in Flask/Django 
+### 12. Deploying a Trained Machine Learning Model in Flask/Django 
 - How to save a trained model 
 - What is Flask/Django ?
 - How to deploy a trained final model in an application 
