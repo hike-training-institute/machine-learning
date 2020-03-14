@@ -98,10 +98,7 @@
 - What is Flask/Django ?
 - How to deploy a trained final model in an application 
 
-
-
-
-
+[fun-beginner-friendly-datasets](https://www.kaggle.com/rtatman/fun-beginner-friendly-datasets)
   
 
 
